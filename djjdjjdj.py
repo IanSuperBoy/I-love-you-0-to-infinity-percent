@@ -8,7 +8,7 @@ for x in range(1,999999999999999999999999999999999999999999999999999999999999999
     print("  I love you", iloveyou, "%💛")
     iloveyou = iloveyou + 1
     print("   I love you", iloveyou, "%💚")
-    iloveyou = iloveyou + 1
+    iloveyou = iloveyou + 2
     print("    I love you", iloveyou, "%💙")
     iloveyou = iloveyou + 1
     print("   I love you", iloveyou, "%💜")
